@@ -101,11 +101,7 @@
                     All education institute is Assam to reopen from November 2
                 </h1>
                 <p class="news-title">
-                    Uttar pradesh GAUTAM BUDDH NAGAR recorder 107 new covid-19 cases
-                    on saturday , pushing the district's infection tally t 15,803,
-                    offically data showed. The number of active cases came down further
-                    to 1,3084 from 1,477 on Friday and 1,523 on thursday, accordig to
-                    the data released by the Up Health Department for a 24-hour period.
+                    
                 </p>
                 <button class="news-button">Read more </button>
                 <button class="btn btn-priary" onclick="display('SectioMyProjectsHome')">
