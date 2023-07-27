@@ -102,15 +102,4 @@
                 </h1>
                 <p class="news-title">
                     
-                </p>
-                <button class="news-button">Read more </button>
-                <button class="btn btn-priary" onclick="display('SectioMyProjectsHome')">
-                    back
-                </button>
-            </div>
-        </div>
-    </div>
-
-</body>
-
-</html>
+               
